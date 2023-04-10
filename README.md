@@ -1,6 +1,6 @@
 [![MasterHead](https://media.giphy.com/headers/GitHub/w8ZJLtJbmuph.gif)](https://raw.githubusercontent.com/um)
     <h1 align="center">Hi 👋, I'm Chukwuka Ryan Favour</h1>
-    <h3 align="center">A passionate frontend 👨🏾‍💻 developer from Nigeria 🇳🇬</h3>
+    <h3 align="center">A passionate Frontend 👨🏾‍💻 Developer from Nigeria 🇳🇬</h3>
     <div
       style="width: 100%; height: 0; padding-bottom: 75%; position: relative"
     >
@@ -76,7 +76,7 @@
           height="30"
           width="40"
       /></a>
-      <a href="https://www.youtube.com/c/ryan favour chukwuka" target="blank"
+      <a href="https://youtube.com/@ryanfavourchukwuka6114" target="blank"
         ><img
           align="center"
           src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg"
