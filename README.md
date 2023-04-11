@@ -6,9 +6,9 @@
     >
       <img
         align="right"
-        src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
+        src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif"
         width="350"
-        height="300"
+        height="250"
         style="border-radius: 100%; object-fit: cover"
         frameborder="0"
         class="giphy-embed"
