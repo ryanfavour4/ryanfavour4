@@ -27,11 +27,7 @@
           alt="ryanfavour4"
       /></a>
      <p align="left">
-      <a href="https://github.com/ryo-ma/github-profile-trophy"
-        ><img
-          src="https://github-profile-trophy.vercel.app/?username=ryanfavour4"
-          alt="ryanfavour4"
-      /></a>
+          [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryanfavour4/github-profile-trophy)
     </p>
 <ul>                 
  <li>🔭 I’m currently working on [Myitura] (https://myitura.com/)</li>
