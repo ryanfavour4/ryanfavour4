@@ -144,6 +144,15 @@
           height="40"
         />
       </a>
+   
+      <a href="https://www.wordpress.org" target="_blank" rel="noreferrer">
+        <img
+          src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg"
+          alt="wordpress"
+          width="40"
+          height="40"
+        />
+      </a>
       <a href="https://www.chartjs.org" target="_blank" rel="noreferrer">
         <img
           src="https://www.chartjs.org/media/logo-title.svg"
