@@ -1,6 +1,18 @@
 [![MasterHead](https://raw.githubusercontent.com/BEPb/BEPb/output/github-contribution-grid-snake.svg)](https://github.com/ryanfavour4?tab=achievements)
     <h1 align="center">Hi 👋, I'm Chukwuka Ryan Favour</h1>
     <h3 align="center">A passionate Frontend 👨🏾‍💻 Developer from Nigeria 🇳🇬</h3>
+     <p align="left">
+      <img
+        src="https://komarev.com/ghpvc/?username=ryanfavour4&label=Profile%20views&color=0e75b6&style=flat"
+        alt="ryanfavour4"
+      />
+    </p>
+    <p align="left">
+      <a href="https://twitter.com/ryanfavour4" target="blank"
+        ><img
+          src="https://img.shields.io/twitter/follow/ryanfavour4?logo=twitter&style=for-the-badge"
+          alt="ryanfavour4"
+      /></a>
     <div
       style="width: 100%; height: 0; padding-bottom: 75%; position: relative"
     >
@@ -22,18 +34,7 @@
      <li>📫 How to reach me *ryanfave022@gmail.com | (234) 902-2698-402*</li>
      <li>⚡ Fun fact *I Think I am Funny 😃*</li>
     </ul>
-    <p align="left">
-      <img
-        src="https://komarev.com/ghpvc/?username=ryanfavour4&label=Profile%20views&color=0e75b6&style=flat"
-        alt="ryanfavour4"
-      />
-    </p>
-    <p align="left">
-      <a href="https://twitter.com/ryanfavour4" target="blank"
-        ><img
-          src="https://img.shields.io/twitter/follow/ryanfavour4?logo=twitter&style=for-the-badge"
-          alt="ryanfavour4"
-      /></a>
+   
      <p align="left">
           [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryanfavour4/github-profile-trophy)
     </p>
