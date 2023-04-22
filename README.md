@@ -208,6 +208,15 @@
           height="40"
         />
       </a>
+         <a href="https://github.com" target="_blank" rel="noreferrer">
+        <img
+          src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg"
+          alt="github"
+          width="40"
+          height="40"
+        />
+      </a>
+    
       <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
         <img
           src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"
