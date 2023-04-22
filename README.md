@@ -34,57 +34,12 @@
      <li>📫 How to reach me *ryanfave022@gmail.com | (234) 902-2698-402*</li>
      <li>⚡ Fun fact *I Think I am Funny 😃*</li>
     </ul>
-   
      <p align="left">
           [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryanfavour4/github-profile-trophy)
     </p>
-
   </p>
-    <h3 align="left">Connect with me:</h3>
-    <p align="left">
-      <a href="https://twitter.com/ryanfavour4" target="blank"
-        ><img
-          align="center"
-          src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
-          alt="ryanfavour4"
-          height="30"
-          width="40"
-      /></a>
-      <a href="https://linkedin.com/in/chukwuka-favour-6b094b240" target="blank"
-        ><img
-          align="center"
-          src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-          alt="chukwuka-favour-6b094b240"
-          height="30"
-          width="40"
-      /></a>
-      <a href="https://fb.com/ryanfavour12" target="blank"
-        ><img
-          align="center"
-          src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
-          alt="ryan favour (rf)"
-          height="30"
-          width="40"
-      /></a>
-      <a href="https://instagram.com/ryan_favour_frontend_tech" target="blank"
-        ><img
-          align="center"
-          src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-          alt="ryan_favour_frontend_tech"
-          height="30"
-          width="40"
-      /></a>
-      <a href="https://youtube.com/@ryanfavourchukwuka6114" target="blank"
-        ><img
-          align="center"
-          src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg"
-          alt="ryan favour chukwuka"
-          height="30"
-          width="40"
-      /></a>
-    </p>
     <h3 align="left">Languages and Tools:</h3>
-    <p align="left">
+   <p align="left">
       <a
         href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
         target="_blank"
@@ -285,6 +240,49 @@
           height="40"
         />
       </a>
+    </p>
+    <h3 align="left">Connect with me:</h3>
+    <p align="left">
+      <a href="https://twitter.com/ryanfavour4" target="blank"
+        ><img
+          align="center"
+          src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
+          alt="ryanfavour4"
+          height="30"
+          width="40"
+      /></a>
+      <a href="https://linkedin.com/in/chukwuka-favour-6b094b240" target="blank"
+        ><img
+          align="center"
+          src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+          alt="chukwuka-favour-6b094b240"
+          height="30"
+          width="40"
+      /></a>
+      <a href="https://fb.com/ryanfavour12" target="blank"
+        ><img
+          align="center"
+          src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
+          alt="ryan favour (rf)"
+          height="30"
+          width="40"
+      /></a>
+      <a href="https://instagram.com/ryan_favour_frontend_tech" target="blank"
+        ><img
+          align="center"
+          src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
+          alt="ryan_favour_frontend_tech"
+          height="30"
+          width="40"
+      /></a>
+      <a href="https://youtube.com/@ryanfavourchukwuka6114" target="blank"
+        ><img
+          align="center"
+          src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg"
+          alt="ryan favour chukwuka"
+          height="30"
+          width="40"
+      /></a>
     </p>
     <p>
       <img
