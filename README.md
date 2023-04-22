@@ -31,7 +31,7 @@
      <li>🌱 I’m currently learning *C sharp (C#), Next.js, Cypress, AWS*</li>
      <li>👯 I’m looking to collaborate on *True Finder*</li>
      <li>💬 Ask me about *React.js, Three.js, MobX, Advanced CSS*</li>
-     <li>📫 How to reach me *ryanfave022@gmail.com | (234) 902-2698-402*</li>
+     <li>📫 How to reach me *ryanfave022@gmail.com | <a href="tel:+2349022698402">+234 902 269 8402</a>*</li>
      <li>⚡ Fun fact *I Think I am Funny 😃*</li>
     </ul>
      <p align="left">
