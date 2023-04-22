@@ -14,6 +14,14 @@
         class="giphy-embed"
       />
     </div>
+    <ul align="left">                 
+     <li>🔭 I’m currently working on [Myitura] (https://myitura.com/)</li>
+     <li>🌱 I’m currently learning *C sharp (C#), Next.js, Cypress, AWS*</li>
+     <li>👯 I’m looking to collaborate on *True Finder*</li>
+     <li>💬 Ask me about *React.js, Three.js, MobX, Advanced CSS*</li>
+     <li>📫 How to reach me *ryanfave022@gmail.com | (234) 902-2698-402*</li>
+     <li>⚡ Fun fact *I Think I am Funny 😃*</li>
+    </ul>
     <p align="left">
       <img
         src="https://komarev.com/ghpvc/?username=ryanfavour4&label=Profile%20views&color=0e75b6&style=flat"
@@ -29,14 +37,7 @@
      <p align="left">
           [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryanfavour4/github-profile-trophy)
     </p>
-<ul>                 
- <li>🔭 I’m currently working on [Myitura] (https://myitura.com/)</li>
- <li>🌱 I’m currently learning *C sharp (C#), Next.js, Cypress, AWS*</li>
- <li>👯 I’m looking to collaborate on *True Finder*</li>
- <li>💬 Ask me about *React.js, Three.js, MobX, Advanced CSS*</li>
- <li>📫 How to reach me *ryanfave022@gmail.com | (234) 902-2698-402*</li>
- <li>⚡ Fun fact *I Think I am Funny 😃*</li>
-</ul>
+
   </p>
     <h3 align="left">Connect with me:</h3>
     <p align="left">
