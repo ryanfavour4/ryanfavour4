@@ -314,10 +314,3 @@
         alt="ryanfavour4"
       />
     </p>
-    <p>
-      <img
-        align="center"
-        src="https://github-readme-streak-stats.herokuapp.com/?user=ryanfavour4&"
-        alt="ryanfavour4"
-      />
-    </p>
