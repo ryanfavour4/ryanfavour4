@@ -1,5 +1,5 @@
 [![MasterHead](https://github.com/BEPb/BEPb/blob/main/assets/Bottom_up.svg)](https://github.com/ryanfavour4?tab=achievements)
-    <h1 align="center">Hi 👋, I'm Chukwuka Ryan Favour</h1>
+    <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30" height="30" />, I'm Chukwuka Ryan Favour</h1>
     <h3 align="center">A passionate Frontend 👨🏾‍💻 Developer from Nigeria 🇳🇬</h3>
      <p align="left">
       <img
