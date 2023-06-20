@@ -28,7 +28,7 @@
     </div>
     <ul align="left">                 
      <li>🔭 I’m currently working on [Myitura] (https://myitura.com/)</li>
-     <li>🌱 I’m currently learning *C sharp (C#), Next.js, Cypress, AWS*</li>
+     <li>🌱 I’m currently learning *C sharp (C#), Cypress, AWS*</li>
      <li>👯 I’m looking to collaborate on *True Finder*</li>
      <li>💬 Ask me about *React.js, Three.js, MobX, Advanced CSS*</li>
      <li>📫 How to reach me *ryanfave022@gmail.com | <a href="tel:+2349022698402">+234 902 269 8402</a>*</li>
