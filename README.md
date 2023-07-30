@@ -27,7 +27,6 @@
       />
     </div>
     <ul align="left">                 
-     <li>🔭 I’m currently working on [Myitura] (https://myitura.com/)</li>
      <li>🌱 I’m currently learning *C sharp (C#), Cypress, AWS*</li>
      <li>👯 I’m looking to collaborate on *True Finder*</li>
      <li>💬 Ask me about *React.js, Three.js, MobX, Advanced CSS*</li>
