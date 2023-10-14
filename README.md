@@ -1,4 +1,4 @@
-[![MasterHead](https://github.com/BEPb/BEPb/blob/main/assets/Bottom_up.svg)](https://github.com/ryanfavour4?tab=achievements)
+[![MasterHead](https://github.com/BEPb/BEPb/blob/main/assets/Bottom_up.svg)](https://favourryan.netlify.app)
     <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30" height="30" />, I'm Chukwuka Ryan Favour</h1>
     <h3 align="center">A passionate Frontend 👨🏾‍💻 Developer</h3>
      <p align="left">
@@ -27,8 +27,9 @@
       />
     </div>
     <ul align="left">                 
-     <li>🌱 I’m currently learning *C sharp (C#), Cypress, AWS*</li>
-     <li>👯 I’m looking to collaborate on *True Finder*</li>
+    <!-- <li>🌱 I’m currently learning *C sharp (C#), Cypress, AWS*</li> -->
+    <!-- <li>👯 I’m looking to collaborate on *True Finder*</li> -->
+     <li>🌱 I’m currently learning *Nest js 🐈*</li>
      <li>💬 Ask me about *React.js, Three.js, MobX, Advanced CSS*</li>
      <li>📫 How to reach me *ryanfave022@gmail.com | <a href="tel:+2349022698402">+234 902 269 8402</a>*</li>
      <li>⚡ Fun fact *I Think I am Funny 😃*</li>
