@@ -80,9 +80,17 @@
           height="40"
         />
       </a>
+      <a href="https://angular.dev" target="_blank" rel="noreferrer">
+        <img
+          src="https://github.com/devicons/devicon/blob/master/icons/angular/angular-original.svg"
+          alt="angular"
+          width="40"
+          height="40"
+        />
+      </a>
       <a href="https://mobx.js.org/README.html" target="_blank" rel="noreferrer">
         <img
-          src="https://camo.githubusercontent.com/0dc3b9afa37acc792f49624b1f8dd364b55c9107167fd291ffde1d81917aceba/68747470733a2f2f6d6f62782e6a732e6f72672f6173736574732f6d6f62782e706e67"
+          src="https://github.com/devicons/devicon/blob/master/icons/mobx/mobx-plain.svg"
           alt="mobx"
           width="40"
           height="40"
@@ -105,7 +113,7 @@
         />
       </a>
      <a href="https://tailwindui.com/" target="_blank" rel="noreferrer">
-        <img src="https://camo.githubusercontent.com/5734d0669fe22ce04a1cb989a156cd32c379875f6bca56d5210c9432824856d9/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f7461696c77696e646373732f7461696c77696e646373732d69636f6e2e737667" alt="tailwind" width="40" height="40" />
+        <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" alt="tailwind" width="40" height="40" />
      </a>
       <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
         <img
