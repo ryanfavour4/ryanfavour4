@@ -302,7 +302,7 @@
           height="30"
           width="40"
       /></a>
-      <a href="https://facebook.com/RyanFavour4" target="blank"
+      <a href="https://facebook.com/fb.ryanfavour" target="blank"
         ><img
           align="center"
           src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
@@ -318,7 +318,7 @@
           height="30"
           width="40"
       /></a>
-      <a href="https://youtube.com/@ryanfavourchukwuka6114" target="blank"
+      <a href="https://youtube.com/@ryanfavour4" target="blank"
         ><img
           align="center"
           src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg"
