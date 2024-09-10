@@ -1,6 +1,6 @@
 [![MasterHead](https://github.com/BEPb/BEPb/blob/main/assets/Bottom_up.svg)](https://favourryan.netlify.app)
     <h1 align="center">Hi 👋 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30" height="30" />, I'm Chukwuka Ryan Favour</h1>
-    <h3 align="center">A passionate Frontend 👨🏾‍💻 Developer</h3>
+    <h3 align="center">A passionate Software 👨🏾‍💻 Developer</h3>
      <p align="left">
       <img
         src="https://komarev.com/ghpvc/?username=ryanfavour4&label=Profile%20views&color=0e75b6&style=flat"
@@ -18,10 +18,10 @@
     >
       <img
         align="right"
-        src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"
-        width="150"
-        height="180"
-        style="border-radius: 100%; object-fit: cover"
+src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966"
+        width="284"
+        height="210"
+        style="border-radius: 100px; object-fit: fil; overflow: hidden"
         frameborder="0"
         class="giphy-embed"
       />
