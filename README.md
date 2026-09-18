@@ -18,10 +18,10 @@
     >
       <img
         align="right"
-src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966"
-        width="284"
+        src="https://pbs.twimg.com/profile_images/1877006745270206464/ZIwVsKmM_400x400.jpg"
+        width="230"
         height="210"
-        style="border-radius: 100px; object-fit: fil; overflow: hidden"
+        style="border-radius: 100px; object-fit: cover; overflow: hidden"
         frameborder="0"
         class="giphy-embed"
       />
@@ -29,8 +29,8 @@ src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349
     <ul align="left">                 
     <!-- <li>🌱 I’m currently learning *C sharp (C#), Cypress, AWS*</li> -->
     <!-- <li>👯 I’m looking to collaborate on *True Finder*</li> -->
-     <li>🌱 I’m currently learning *Nest js 🐈*</li>
-     <li>💬 Ask me about *React.js, Three.js, MobX, Advanced CSS*</li>
+     <li>🌱 I’m currently learning *Solidity ⟠ ⧫ ₿*</li>
+     <li>💬 Ask me about *Javascript, Three.js, Typescript*</li>
      <li>📫 How to reach me *ryanfave022@gmail.com | <a href="tel:+2349022698402">+234 902 269 8402</a>*</li>
      <li>⚡ Fun fact *I Think I am Funny 😃*</li>
     </ul>
@@ -66,7 +66,7 @@ src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349
       </a>
       <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
         <img
-          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
+          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"
           alt="react"
           width="40"
           height="40"
@@ -267,6 +267,38 @@ src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349
           height="40"
         />
       </a>
+      <a href="https://nestjs.com" target="_blank" rel="noreferrer">
+        <img
+          src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-original.svg"
+          alt="nestjs"
+          width="40"
+          height="40"
+        />
+      </a>
+      <a href="https://python.org" target="_blank" rel="noreferrer">
+        <img
+          src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"
+          alt="python"
+          width="40"
+          height="40"
+        />
+      </a>
+      <a href="https://zustand.docs.pmnd.rs/" target="_blank" rel="noreferrer">
+        <img
+          src="https://github.com/devicons/devicon/blob/master/icons/zustand/zustand-original.svg"
+          alt="zustand"
+          width="40"
+          height="40"
+        />
+      </a>
+      <a href="https://electronjs.org/" target="_blank" rel="noreferrer">
+        <img
+          src="https://github.com/devicons/devicon/blob/master/icons/electron/electron-original.svg"
+          alt="electronjs"
+          width="40"
+          height="40"
+        />
+      </a>
 <!--       <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
         <img
           src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg"
@@ -294,19 +326,19 @@ src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349
           height="30"
           width="40"
       /></a>
-      <a href="https://linkedin.com/in/chukwuka-favour-6b094b240" target="blank"
+      <a href="https://linkedin.com/in/li-ryanfavour4" target="blank"
         ><img
           align="center"
           src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-          alt="chukwuka-favour-6b094b240"
+          alt="ryanfavour4"
           height="30"
           width="40"
       /></a>
-      <a href="https://facebook.com/fb.ryanfavour" target="blank"
+      <a href="https://facebook.com/fb.ryanfavour4" target="blank"
         ><img
           align="center"
           src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
-          alt="ryan favour (rf)"
+          alt="ryanfavour4"
           height="30"
           width="40"
       /></a>
@@ -314,7 +346,7 @@ src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349
         ><img
           align="center"
           src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-          alt="ryan_favour_frontend_tech"
+          alt="ryanfavour4"
           height="30"
           width="40"
       /></a>
@@ -322,7 +354,7 @@ src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349
         ><img
           align="center"
           src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg"
-          alt="ryan favour chukwuka"
+          alt="ryanfavour4"
           height="30"
           width="40"
       /></a>
