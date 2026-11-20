@@ -12,7 +12,7 @@ I build production software across web, mobile and desktop — TypeScript, React
 
 ## Stack
 
-[![My Skills](https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,express,nestjs,postgres,mongodb,mysql,mariadb,electron,tailwind,redux,jest,html,css,git,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,express,nestjs,postgres,mongodb,mysql,electron,tailwind,redux,jest,html,css,git,figma)](https://skillicons.dev)
 
 TypeScript · JavaScript · React · Next.js · Node.js · Express · NestJS · React Native · PostgreSQL · MongoDB · Tailwind CSS · Socket.io · Redux / Zustand · Jest
 
