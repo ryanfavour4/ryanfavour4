@@ -1,6 +1,6 @@
 # Chukwuka Ryan Favour — Full-Stack Developer
 
-I build production web platforms with TypeScript, React/Next.js and Node.js — live systems with real users and real payments.
+I build production software across web, mobile and desktop — TypeScript, React/Next.js, React Native, Electron and Node.js — live systems with real users and real payments.
 
 ## Featured work
 
