@@ -1,3 +1,5 @@
+<img src="logo.png" alt="Ryan Favour" width="220">
+
 # Chukwuka Ryan Favour — Full-Stack Developer
 
 I build production software across web, mobile and desktop — TypeScript, React/Next.js, React Native, Electron and Node.js — live systems with real users and real payments.
