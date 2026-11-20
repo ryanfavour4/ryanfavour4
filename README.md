@@ -1,4 +1,4 @@
-<img src="logo.png" alt="Ryan Favour" width="220">
+<img src="logo.png" alt="Ryan Favour" width="200">
 
 # Chukwuka Ryan Favour — Full-Stack Developer
 
@@ -14,11 +14,11 @@ I build production software across web, mobile and desktop — TypeScript, React
 
 ## Stack
 
-[![My Skills](https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,express,nestjs,postgres,mongodb,mysql,electron,tailwind,redux,jest,html,css,git,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,express,nestjs,postgres,mongodb,mysql,electron,tailwind,redux,jest,html,css,git,figma,threejs)](https://skillicons.dev)
 
 TypeScript · JavaScript · React · Next.js · Node.js · Express · NestJS · React Native · PostgreSQL · MongoDB · Tailwind CSS · Socket.io · Redux / Zustand · Jest
 
-Also worked with: Python (working knowledge).
+Also worked with: Python (working knowledge) 🐍.
 
 ## Currently
 
