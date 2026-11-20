@@ -12,6 +12,8 @@ I build production web platforms with TypeScript, React/Next.js and Node.js — 
 
 ## Stack
 
+[![My Skills](https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,express,nestjs,postgres,mongodb,tailwind,redux,jest,html,css,git,figma)](https://skillicons.dev)
+
 TypeScript · JavaScript · React · Next.js · Node.js · Express · NestJS · React Native · PostgreSQL · MongoDB · Tailwind CSS · Socket.io · Redux / Zustand · Jest
 
 Also worked with: Python (working knowledge).
